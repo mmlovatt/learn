@@ -1,1 +1,6 @@
-# 'learn' repo has learning outlines and plans that are public (GNU) for info only.  More detailed information is available on request.
+# This 'learn' repository contains the following items:
+#
+# Health Informatics One Day Training Course (course materials used for delivery)
+# NHS Data Model and Dictionary (outline of course content)
+# Surgical Scorecard Data Architecture Workshop (materials used for delivery)
+# SWE Fundamentals (materials used for delivery)
